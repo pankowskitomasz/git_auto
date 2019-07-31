@@ -1,5 +1,5 @@
 #!/bin/bash
-dta = date
+$dta = date
 git checkout "dev_stage"
 git add .
 git commit -m dta
